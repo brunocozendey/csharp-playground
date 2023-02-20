@@ -1,0 +1,4 @@
+/home/bruno/Documents/CODING/DOTNET/Instrucoes/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.csprojAssemblyReference.cache
+/home/bruno/Documents/CODING/DOTNET/Instrucoes/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.AssemblyInfoInputs.cache
+/home/bruno/Documents/CODING/DOTNET/Instrucoes/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.AssemblyInfo.cs
+/home/bruno/Documents/CODING/DOTNET/Instrucoes/Instrucoes/obj/Debug/netcoreapp3.1/Instrucoes.csproj.CoreCompileInputs.cache

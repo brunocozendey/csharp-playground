@@ -1,0 +1,13 @@
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.csprojAssemblyReference.cache
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.AssemblyInfoInputs.cache
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.AssemblyInfo.cs
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.deps.json
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.runtimeconfig.json
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.runtimeconfig.dev.json
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.dll
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/bin/Debug/netcoreapp3.1/EstruturaDoPrograma.pdb
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.dll
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.pdb
+/home/bruno/Documents/dotNet/EstruturaDoPrograma/EstruturaDoPrograma/obj/Debug/netcoreapp3.1/EstruturaDoPrograma.genruntimeconfig.cache

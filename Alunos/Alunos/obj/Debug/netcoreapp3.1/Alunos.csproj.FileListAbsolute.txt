@@ -1,0 +1,13 @@
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos.deps.json
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos.runtimeconfig.json
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos.runtimeconfig.dev.json
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos.dll
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/bin/Debug/netcoreapp3.1/Alunos.pdb
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.csprojAssemblyReference.cache
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.AssemblyInfoInputs.cache
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.AssemblyInfo.cs
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.csproj.CoreCompileInputs.cache
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.dll
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.pdb
+/home/bruno/Documents/CODING/DOTNET/Alunos/Alunos/obj/Debug/netcoreapp3.1/Alunos.genruntimeconfig.cache
